@@ -15,3 +15,8 @@ Changed Bug-Fix-Experimental<br>
 Updated STEPS.md<br>
 Commited "Steps 7"<br>
 Pushed Bug-Fix-Experimental<br>
+
+Step 8<br>
+Updated STEPS.md<br>
+Commited "Steps 8"<br>
+Pushed Bug-Fix-Experimental<br>
