@@ -4,3 +4,10 @@ Create README.md<br>
 
 Step 1<br>
 Create STEPS.md<br>
+Commited "Step 1"<br>
+Pushed Main<br>
+
+Step 2<br>
+Updated STEPS.md<br>
+Commited "Step 2"<br>
+Pushed Main<br>
