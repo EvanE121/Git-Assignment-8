@@ -29,3 +29,8 @@ Updated STEPS.md<br>
 Commited "Steps 5"<br>
 Pushed Bug-Fix<br>
 
+Step 6<br>
+Updated STEPS.md<br>
+Commited "Steps 6"<br>
+Pushed Bug-Fix<br>
+
