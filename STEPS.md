@@ -57,3 +57,8 @@ Merge Bug-Fix-Experimental<br>
 Updated STEPS.md<br>
 Commited "Steps 11"<br>
 Pushed Bug-Fix<br>
+
+Step 12<br>
+Updated STEPS.md<br>
+Commited "Steps 12"<br>
+Pushed Bug-Fix<br>
